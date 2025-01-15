@@ -1,8 +1,8 @@
-# Aqua fusion enhancement network: an approach for enhanced visibility in underwater digital images
+# UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data
 
 ## Overview
 
-This repository contains the source code and supplementary materials for the paper titled **Aqua fusion enhancement network: an approach for enhanced visibility in underwater digital images**. This research focuses on the visual enhancement of low-illumination underwater images and is currently under review
+This repository contains the source code and supplementary materials for the paper titled **UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data**. This research focuses on the visual enhancement of underwater images with non-uniform illumination
 
 ![View Image](AFEN.png)
 
