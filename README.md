@@ -2,7 +2,7 @@
 
 ## 🎯 1. Overview
 
-This repository contains the source code and supplementary materials for the paper titled **UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data**. This research focuses on the visual enhancement of underwater images with non-uniform illumination
+This repository contains the source code and supplementary materials for the paper titled UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data. This research focuses on the visual enhancement of underwater images with non-uniform illumination. The paper has been accepted for publication in Image and Vision Computing (IMAVIS).
 
 ![View Image](UNIR-Net.png)
 
@@ -20,18 +20,14 @@ This repository contains the source code and supplementary materials for the pap
 ## 🧪 3. Inference
 To test the model, follow these steps:
 
+1. Place your images to be enhanced in the ./1_Input directory.
 
-1. Download the pretrained weights from either of the following links, and place them in the `./Models` directory:  
-   - [Google Drive](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing)
-
-2. Place your images to be enhanced in the ./1_Input directory.
-
-3. Run the code with the following command:
+2. Run the code with the following command:
 
    ```bash
    python inference.py
 
-4. The enhanced images will be saved in the ./2_Output directory.
+3. The enhanced images will be saved in the ./2_Output directory.
 
 ## 📄 Citation
 If this work contributes to your research, we would appreciate it if you could cite our paper:
