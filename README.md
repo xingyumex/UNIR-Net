@@ -34,8 +34,10 @@ If this work contributes to your research, we would appreciate it if you could c
 
 ```bibtex
 @article{perez2025unir,
-  title={UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data},
+  title={UNIR-Net: A novel approach for restoring underwater images with non-uniform illumination using synthetic data},
   author={Perez-Zarate, Ezequiel and Liu, Chunxiao and Ramos-Soto, Oscar and Oliva, Diego and Perez-Cisneros, Marco},
-  journal={arXiv preprint arXiv:2501.09053},
-  year={2025}
+  journal={Image and Vision Computing},
+  pages={105734},
+  year={2025},
+  publisher={Elsevier}
 }
